@@ -1,0 +1,12 @@
+# Ignore all png files in raw_data directory
+raw_data/2_label/*.png
+raw_data/3_label/*.png
+raw_data/4_label/*.png
+raw_data/13_label/*.png
+raw_data/core_image/*.png
+
+# Ignore all png files in testing dataset directory
+raw_data/testing/2_label/*.png
+raw_data/testing/3_label/*.png
+raw_data/testing/4_label/*.png
+raw_data/testing/core_image/*.png
