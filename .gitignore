@@ -10,3 +10,6 @@ raw_data/testing_dataset/2_label/*.png
 raw_data/testing_dataset/3_label/*.png
 raw_data/testing_dataset/4_label/*.png
 raw_data/testing_dataset/core_image/*.png
+
+# Ignore all png files in roboflow label
+notebooks/core_tray-6/
